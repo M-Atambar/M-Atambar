@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="300" viewBox="0 0 380 300">
+<defs>
+<linearGradient id="blob" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#5b21b6"/></linearGradient>
+<linearGradient id="scr" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1f1347"/><stop offset="1" stop-color="#0f0a26"/></linearGradient>
+</defs>
+<path d="M60 150 C40 70 130 10 220 30 C320 50 360 130 320 200 C290 255 200 275 130 250 C85 232 68 195 60 150Z" fill="url(#blob)" opacity="0.9"/>
+<rect x="95" y="105" width="190" height="115" rx="10" fill="url(#scr)" stroke="#c4b5fd" stroke-width="3"/>
+<text x="190" y="178" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="44" font-weight="700" fill="#b794ff">&lt;/&gt;</text>
+<rect x="70" y="222" width="240" height="12" rx="6" fill="#2a1a5e" stroke="#c4b5fd" stroke-width="2"/>
+<rect x="300" y="190" width="44" height="44" rx="8" fill="#1f1347" stroke="#c4b5fd" stroke-width="2"/>
+<text x="322" y="219" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="16" fill="#c4b5fd">&lt;/&gt;</text>
+<path d="M312 180 q-6 -10 0 -18 q6 -8 0 -16" stroke="#c4b5fd" stroke-width="2" fill="none" opacity="0.6"/>
+<circle cx="70" cy="70" r="5" fill="#c4b5fd" opacity="0.7"/><circle cx="335" cy="60" r="4" fill="#c4b5fd" opacity="0.7"/>
+<circle cx="45" cy="210" r="3" fill="#c4b5fd" opacity="0.6"/>
+</svg>

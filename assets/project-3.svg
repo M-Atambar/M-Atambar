@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="165" viewBox="0 0 300 165">
+<defs><linearGradient id="c" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1b1140"/><stop offset="1" stop-color="#0d0b1e"/></linearGradient></defs>
+<rect x="1" y="1" width="298" height="163" rx="14" fill="url(#c)" stroke="#3b2a6b" stroke-width="2"/>
+<rect x="20" y="20" width="32" height="4" rx="2" fill="#9d6bff"/>
+<text x="20" y="58" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#ffffff">Safari &amp; National Parks</text>
+<text x="20" y="82" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cfc4ee">Interactive web application to explore</text>
+<text x="20" y="100" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12.5" fill="#cfc4ee">safaris and national parks using React.</text>
+<rect x="20" y="118" width="64" height="26" rx="13" fill="#241647" stroke="#7c5cff" stroke-width="1"/><text x="52.0" y="136" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#e6dcff">React</text><rect x="94" y="118" width="48" height="26" rx="13" fill="#241647" stroke="#7c5cff" stroke-width="1"/><text x="118.0" y="136" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="12" fill="#e6dcff">API</text>
+<text x="278" y="32" text-anchor="end" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" fill="#9d6bff">↗</text>
+</svg>
